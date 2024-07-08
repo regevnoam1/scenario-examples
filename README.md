@@ -1,2 +1,0 @@
-# scenario-examples
-kubespliot killercoda
